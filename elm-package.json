@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "summary": "elm-geoip",
+    "summary": "User location detecting based on IP address",
     "repository": "https://github.com/jpagex/elm-geoip.git",
     "license": "BSD3",
     "source-directories": [
